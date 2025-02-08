@@ -1,8 +1,3 @@
-Here's a **`README.md`** file for your test repository, keeping it concise yet informative:  
-
----
-
-
 # 🛰️ Remote Sensing Test Lab  
 
 ### 📌 Overview  
